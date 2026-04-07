@@ -58,6 +58,6 @@ claims/             ← all claims (admin view)
 
 ## Built By
 **Shebin S Illikkal** — Freelance Flutter & FlutterFlow Developer
-📧 [Shebinsillikkl@gmail.com](mailto:Shebinsillikkl@gmail.com)
+📧 [Shebinsillikkal@gmail.com](mailto:Shebinsillikkal@gmail.com)
 📞 +91 9745461686
 💬 [WhatsApp](https://wa.me/919745461686)
